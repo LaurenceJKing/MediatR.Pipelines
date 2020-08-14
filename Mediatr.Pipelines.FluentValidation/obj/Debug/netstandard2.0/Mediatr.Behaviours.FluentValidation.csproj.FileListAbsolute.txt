@@ -1,0 +1,5 @@
+C:\Users\laure\source\repos\Mediatr.Behaviours\Mediatr.Behaviours.FluentValidation\bin\Debug\netstandard2.0\Mediatr.Behaviours.FluentValidation.deps.json
+C:\Users\laure\source\repos\Mediatr.Behaviours\Mediatr.Behaviours.FluentValidation\bin\Debug\netstandard2.0\Mediatr.Behaviours.FluentValidation.dll
+C:\Users\laure\source\repos\Mediatr.Behaviours\Mediatr.Behaviours.FluentValidation\obj\Debug\netstandard2.0\Mediatr.Behaviours.FluentValidation.AssemblyInfoInputs.cache
+C:\Users\laure\source\repos\Mediatr.Behaviours\Mediatr.Behaviours.FluentValidation\obj\Debug\netstandard2.0\Mediatr.Behaviours.FluentValidation.AssemblyInfo.cs
+C:\Users\laure\source\repos\Mediatr.Behaviours\Mediatr.Behaviours.FluentValidation\obj\Debug\netstandard2.0\Mediatr.Behaviours.FluentValidation.csprojAssemblyReference.cache
