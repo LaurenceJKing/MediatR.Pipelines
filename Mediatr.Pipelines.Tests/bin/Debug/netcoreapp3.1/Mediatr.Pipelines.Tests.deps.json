@@ -10,11 +10,11 @@
         "dependencies": {
           "AutoFixture.Xunit2": "4.13.0",
           "FluentAssertions": "5.10.3",
-          "Mediatr.Pipelines.Authorisation": "1.0.0",
-          "Mediatr.Pipelines.Caching": "1.0.0",
-          "Mediatr.Pipelines.FluentValidation": "1.0.0",
-          "Mediatr.Pipelines.Localiztion": "1.0.0",
-          "Mediatr.Pipelines.Logging": "1.0.0",
+          "MediatR.Pipelines.Authorization": "1.0.0",
+          "MediatR.Pipelines.Caching": "1.0.0",
+          "MediatR.Pipelines.FluentValidation": "1.0.0",
+          "MediatR.Pipelines.Localization": "1.0.0",
+          "MediatR.Pipelines.Logging": "1.0.0",
           "Microsoft.Extensions.Caching.Memory": "3.1.7",
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "Moq": "4.14.5",
@@ -1417,7 +1417,7 @@
           "Microsoft.NET.Test.Sdk": "16.5.0"
         }
       },
-      "Mediatr.Pipelines.Authorisation/1.0.0": {
+      "MediatR.Pipelines.Authorization/1.0.0": {
         "dependencies": {
           "MediatR": "8.1.0",
           "Microsoft.AspNetCore.Authorization": "3.1.6",
@@ -1427,7 +1427,7 @@
           "Mediatr.Pipelines.Authorisation.dll": {}
         }
       },
-      "Mediatr.Pipelines.Caching/1.0.0": {
+      "MediatR.Pipelines.Caching/1.0.0": {
         "dependencies": {
           "MediatR": "8.1.0",
           "Microsoft.Extensions.Caching.Abstractions": "3.1.7"
@@ -1436,7 +1436,7 @@
           "Mediatr.Pipelines.Caching.dll": {}
         }
       },
-      "Mediatr.Pipelines.FluentValidation/1.0.0": {
+      "MediatR.Pipelines.FluentValidation/1.0.0": {
         "dependencies": {
           "FluentValidation": "9.0.1",
           "MediatR": "8.1.0"
@@ -1445,7 +1445,7 @@
           "Mediatr.Pipelines.FluentValidation.dll": {}
         }
       },
-      "Mediatr.Pipelines.Localiztion/1.0.0": {
+      "MediatR.Pipelines.Localization/1.0.0": {
         "dependencies": {
           "MediatR": "8.1.0",
           "Microsoft.Extensions.Localization.Abstractions": "3.1.6"
@@ -1454,10 +1454,10 @@
           "Mediatr.Pipelines.Localiztion.dll": {}
         }
       },
-      "Mediatr.Pipelines.Logging/1.0.0": {
+      "MediatR.Pipelines.Logging/1.0.0": {
         "dependencies": {
           "MediatR": "8.1.0",
-          "Mediatr.Pipelines.Localiztion": "1.0.0",
+          "MediatR.Pipelines.Localization": "1.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "3.1.7"
         },
         "runtime": {
@@ -2319,27 +2319,27 @@
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
-    "Mediatr.Pipelines.Authorisation/1.0.0": {
+    "MediatR.Pipelines.Authorization/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Mediatr.Pipelines.Caching/1.0.0": {
+    "MediatR.Pipelines.Caching/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Mediatr.Pipelines.FluentValidation/1.0.0": {
+    "MediatR.Pipelines.FluentValidation/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Mediatr.Pipelines.Localiztion/1.0.0": {
+    "MediatR.Pipelines.Localization/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Mediatr.Pipelines.Logging/1.0.0": {
+    "MediatR.Pipelines.Logging/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

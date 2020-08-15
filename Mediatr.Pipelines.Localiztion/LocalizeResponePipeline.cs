@@ -5,6 +5,11 @@ using System.Threading.Tasks;
 
 namespace Mediatr.Pipelines.Localiztion
 {
+    /// <summary>
+    /// A MediatR pipeline that injects localized strings into the response.
+    /// </summary>
+    /// <typeparam name="TRequest"></typeparam>
+    /// <typeparam name="TResponse"></typeparam>
     public class LocalizeResponsePipeline<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
         where TRequest : IRequest<TResponse>
     {

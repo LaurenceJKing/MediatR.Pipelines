@@ -8,11 +8,6 @@ namespace Mediatr.Pipelines.Tests
     {
     }
 
-    public class CachedRequest : ICachedRequest<Response>
-    {
-        public string CacheKey { get; } = Guid.NewGuid().ToString();
-    }
-
     public class IdempotentRequest : IIdempotentRequest<Response>
     {
         public string IdempotencyKey { get; }

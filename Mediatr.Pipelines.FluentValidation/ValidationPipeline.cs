@@ -5,6 +5,11 @@ using System.Threading.Tasks;
 
 namespace Mediatr.Pipelines.FluentValidation
 {
+    /// <summary>
+    /// A MediatR pipeline that will validate the request.
+    /// </summary>
+    /// <typeparam name="TRequest"></typeparam>
+    /// <typeparam name="TResponse"></typeparam>
     public class ValidationPipeline<TRequest, TResponse> :
         IPipelineBehavior<TRequest, TResponse>
     {

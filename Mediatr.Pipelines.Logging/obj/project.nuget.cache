@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3SuRPXWm8tkYyRAn83EIlxu4vUoKAGBLa8wThj13VHnQnXlcghlCXuLtnrLDKuXFk6AF2piTQRG0yWbsxeaiAg==",
+  "dgSpecHash": "1j7Qz6l3kIcP7x0Vbh2ZZmqaRRd9f28PsVMRuVvRAreaxdib2tZqv0SGqElJU1wiu4XlWua01kA7m6NKni/BCA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Logging\\Mediatr.Pipelines.Logging.csproj",
+  "projectFilePath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Logging\\Mediatr.Pipelines.Logging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laure\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\3.1.6\\microsoft.extensions.localization.abstractions.3.1.6.nupkg.sha512",

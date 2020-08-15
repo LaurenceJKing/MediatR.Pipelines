@@ -9,6 +9,11 @@ using System.Threading.Tasks;
 
 namespace Mediatr.Pipelines.Authorisation
 {
+    /// <summary>
+    /// A MediatR pipeline that ensures the current user is authorized to access the <typeparamref name="TResponse"/>.
+    /// </summary>
+    /// <typeparam name="TRequest"></typeparam>
+    /// <typeparam name="TResponse"></typeparam>
     public class AuthorizationPipeline<TRequest, TResponse> :
         IPipelineBehavior<TRequest, TResponse>
     {
@@ -27,6 +32,14 @@ namespace Mediatr.Pipelines.Authorisation
             this.httpContextAccessor = httpContextAccessor;
         }
 
+        /// <summary>
+        /// Creates a new <see cref="AuthorizationPipeline{TRequest, TResponse}"/>
+        /// which uses a <paramref name="policyName"/> to determine whether or 
+        /// not the current user can access the <typeparamref name="TResponse"/>.
+        /// </summary>
+        /// <param name="authorizationService">The service used check the current user's permissions.</param>
+        /// <param name="httpContextAccessor">The http context used to get the current user.</param>
+        /// <param name="policyName">The policy name to authorize against.</param>
         public AuthorizationPipeline(
             IAuthorizationService authorizationService,
             IHttpContextAccessor httpContextAccessor,
@@ -36,6 +49,14 @@ namespace Mediatr.Pipelines.Authorisation
             this.policyName = policyName;
         }
 
+        /// <summary>
+        /// Creates a new <see cref="AuthorizationPipeline{TRequest, TResponse}"/>
+        /// which uses a <paramref name="policy"/> to determine whether or 
+        /// not the current user can access the <typeparamref name="TResponse"/>.
+        /// </summary>
+        /// <param name="authorizationService">The service used check the current user's permissions.</param>
+        /// <param name="httpContextAccessor">The http context used to get the current user.</param>
+        /// <param name="policy">The policy to authorize against.</param>
         public AuthorizationPipeline(
            IAuthorizationService authorizationService,
            IHttpContextAccessor httpContextAccessor,
@@ -45,6 +66,14 @@ namespace Mediatr.Pipelines.Authorisation
             this.policy = policy;
         }
 
+        /// <summary>
+        /// Creates a new <see cref="AuthorizationPipeline{TRequest, TResponse}"/>
+        /// which uses a set of <paramref name="requirements"/> to determine whether 
+        /// or not the current user can access the <typeparamref name="TResponse"/>.
+        /// </summary>
+        /// <param name="authorizationService">The service used check the current user's permissions.</param>
+        /// <param name="httpContextAccessor">The http context used to get the current user.</param>
+        /// <param name="requirements">The requirements to authorize against.</param>
         public AuthorizationPipeline(
            IAuthorizationService authorizationService,
            IHttpContextAccessor httpContextAccessor,
@@ -54,6 +83,14 @@ namespace Mediatr.Pipelines.Authorisation
             this.requirements = requirements;
         }
 
+        /// <summary>
+        /// Creates a new <see cref="AuthorizationPipeline{TRequest, TResponse}"/>
+        /// which uses a <paramref name="requirement"/> to determine whether or
+        /// not the current user can access the <typeparamref name="TResponse"/>.
+        /// </summary>
+        /// <param name="authorizationService">The service used check the current user's permissions.</param>
+        /// <param name="httpContextAccessor">The http context used to get the current user.</param>
+        /// <param name="requirement">The requirement to authorize against.</param>
         public AuthorizationPipeline(
            IAuthorizationService authorizationService,
            IHttpContextAccessor httpContextAccessor,

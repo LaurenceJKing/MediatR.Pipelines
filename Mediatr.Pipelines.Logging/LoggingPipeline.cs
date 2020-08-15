@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Mediatr.Pipelines.Logging
 {
+    /// <summary>
+    /// A MediatR pipeline that logs any exceptions thrown by
+    /// </summary>
+    /// <typeparam name="TRequest"></typeparam>
+    /// <typeparam name="TResponse"></typeparam>
     public class LoggingPipeline<TRequest, TResponse> :
         IPipelineBehavior<TRequest, TResponse>
     {

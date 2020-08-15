@@ -10,7 +10,7 @@
       "Mediatr.Pipelines.Logging/1.0.0": {
         "dependencies": {
           "MediatR": "8.1.0",
-          "Mediatr.Pipelines.Localiztion": "1.0.0",
+          "MediatR.Pipelines.Localization": "1.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "3.1.6",
           "NETStandard.Library": "2.0.3"
         },
@@ -48,7 +48,7 @@
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
       },
-      "Mediatr.Pipelines.Localiztion/1.0.0": {
+      "MediatR.Pipelines.Localization/1.0.0": {
         "dependencies": {
           "MediatR": "8.1.0",
           "Microsoft.Extensions.Localization.Abstractions": "3.1.6"
@@ -100,7 +100,7 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
-    "Mediatr.Pipelines.Localiztion/1.0.0": {
+    "MediatR.Pipelines.Localization/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

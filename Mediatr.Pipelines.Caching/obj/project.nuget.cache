@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TnA1OuJ2+zNPce9KkqJfjmk9Gozw5jF5DIDSK3DYlNsmWe+WA2NR7AeCTuaaekQlfGY1JW+/fyLSwQoJ83K3VA==",
+  "dgSpecHash": "UwDpdBc16yeJCxXhdSaSOV7Q6Exl1O3EV95ATFqCnpXoPYXt71WNlFhgbFYVxZWzQJhgC6lfN3MTzGjZH+2bVg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\Mediatr.Pipelines.Caching.csproj",
+  "projectFilePath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\Mediatr.Pipelines.Caching.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laure\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.6\\microsoft.extensions.caching.abstractions.3.1.6.nupkg.sha512",
