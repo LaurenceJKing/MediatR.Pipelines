@@ -1,9 +1,7 @@
 ﻿using Mediatr.Pipelines.Localiztion;
 using Microsoft.Extensions.Localization;
 using Moq;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Mediatr.Pipelines.Tests.Localization
 {
@@ -38,7 +36,7 @@ namespace Mediatr.Pipelines.Tests.Localization
     public class InnerModel
     {
         [Localize]
-        public string InnerLocalizedProperty { get; set; }
+        private string InnerLocalizedProperty { get; set; }
 
         [Localize(Key = "InnerTest")]
         public string InnerLocalizedKeyProperty { get; set; }

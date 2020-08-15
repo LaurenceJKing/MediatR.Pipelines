@@ -11,8 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Mediatr.Pipelines.FluentValidation")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LaurenceJKing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("\r\n      A MediatR pipeline that validates the request using FluentValidation.\r\n  " +
+    "  ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mediatr.Pipelines.FluentValidation")]

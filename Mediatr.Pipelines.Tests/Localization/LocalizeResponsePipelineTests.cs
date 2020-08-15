@@ -1,9 +1,6 @@
 ﻿using AutoFixture.Xunit2;
 using Mediatr.Pipelines.Localiztion;
 using Moq;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 

@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>MediatR.Pipelines.FluentValidation</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>LaurenceJKing</Authors>
+    <Company>LaurenceJKing</Company>
+    <Description>
+      A MediatR pipeline that caches the response.
+    </Description>
+    <RepositoryUrl>https://github.com/LaurenceJKing/MediatR.Pipelines</RepositoryUrl>
+    <PackageTags>MediatR; Caching; Idempotency; Pipelines;</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

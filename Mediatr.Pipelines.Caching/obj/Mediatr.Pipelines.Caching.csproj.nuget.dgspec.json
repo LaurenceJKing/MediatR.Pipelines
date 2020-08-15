@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\Mediatr.Pipelines.Caching.csproj",
-        "projectName": "Mediatr.Pipelines.Caching",
+        "projectName": "MediatR.Pipelines.FluentValidation",
         "projectPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\Mediatr.Pipelines.Caching.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\obj\\",

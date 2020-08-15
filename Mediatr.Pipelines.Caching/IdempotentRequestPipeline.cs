@@ -1,10 +1,5 @@
 ﻿using MediatR;
 using Microsoft.Extensions.Caching.Memory;
-using System.Linq;
-using System.Net.Sockets;
-using System.Reflection;
-using System.Threading;
-using System.Threading.Tasks;
 
 namespace Mediatr.Pipelines.Caching
 {

@@ -2,10 +2,6 @@
 using FluentAssertions;
 using Mediatr.Pipelines.Caching;
 using Microsoft.Extensions.Caching.Memory;
-using Moq;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 

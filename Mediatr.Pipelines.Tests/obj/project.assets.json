@@ -79,15 +79,6 @@
           "lib/netcoreapp2.1/FluentAssertions.dll": {}
         }
       },
-      "FluentValidation/9.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/FluentValidation.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/FluentValidation.dll": {}
-        }
-      },
       "MediatR/8.1.0": {
         "type": "package",
         "compile": {
@@ -2075,35 +2066,7 @@
           "bin/placeholder/Mediatr.Pipelines.Authorisation.dll": {}
         }
       },
-      "Mediatr.Pipelines.Caching/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "MediatR": "8.1.0",
-          "Microsoft.Extensions.Caching.Abstractions": "3.1.6"
-        },
-        "compile": {
-          "bin/placeholder/Mediatr.Pipelines.Caching.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Mediatr.Pipelines.Caching.dll": {}
-        }
-      },
-      "Mediatr.Pipelines.FluentValidation/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "FluentValidation": "9.0.1",
-          "MediatR": "8.1.0"
-        },
-        "compile": {
-          "bin/placeholder/Mediatr.Pipelines.FluentValidation.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Mediatr.Pipelines.FluentValidation.dll": {}
-        }
-      },
-      "Mediatr.Pipelines.Localiztion/1.0.0": {
+      "MediatR.Pipelines.FluentValidation/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -2111,25 +2074,10 @@
           "Microsoft.Extensions.Localization.Abstractions": "3.1.6"
         },
         "compile": {
-          "bin/placeholder/Mediatr.Pipelines.Localiztion.dll": {}
+          "bin/placeholder/MediatR.Pipelines.FluentValidation.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Mediatr.Pipelines.Localiztion.dll": {}
-        }
-      },
-      "Mediatr.Pipelines.Logging/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "MediatR": "8.1.0",
-          "Mediatr.Pipelines.Localiztion": "1.0.0",
-          "Microsoft.Extensions.Logging.Abstractions": "3.1.6"
-        },
-        "compile": {
-          "bin/placeholder/Mediatr.Pipelines.Logging.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Mediatr.Pipelines.Logging.dll": {}
+          "bin/placeholder/MediatR.Pipelines.FluentValidation.dll": {}
         }
       }
     }
@@ -2282,21 +2230,6 @@
         "lib/netstandard2.1/FluentAssertions.dll",
         "lib/netstandard2.1/FluentAssertions.pdb",
         "lib/netstandard2.1/FluentAssertions.xml"
-      ]
-    },
-    "FluentValidation/9.0.1": {
-      "sha512": "GeF+cPknUFFJ5FkCybmQShaXWwJowBuJozgns6In37wiP2zOWx+kdNPBAN9BlDyhcORdxtXeGnkLZ+OFT85onQ==",
-      "type": "package",
-      "path": "fluentvalidation/9.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "fluentvalidation.9.0.1.nupkg.sha512",
-        "fluentvalidation.nuspec",
-        "lib/net461/FluentValidation.dll",
-        "lib/net461/FluentValidation.xml",
-        "lib/netstandard2.0/FluentValidation.dll",
-        "lib/netstandard2.0/FluentValidation.xml"
       ]
     },
     "MediatR/8.1.0": {
@@ -6922,36 +6855,18 @@
       "path": "../Mediatr.Pipelines.Authorisation/Mediatr.Pipelines.Authorisation.csproj",
       "msbuildProject": "../Mediatr.Pipelines.Authorisation/Mediatr.Pipelines.Authorisation.csproj"
     },
-    "Mediatr.Pipelines.Caching/1.0.0": {
-      "type": "project",
-      "path": "../Mediatr.Pipelines.Caching/Mediatr.Pipelines.Caching.csproj",
-      "msbuildProject": "../Mediatr.Pipelines.Caching/Mediatr.Pipelines.Caching.csproj"
-    },
-    "Mediatr.Pipelines.FluentValidation/1.0.0": {
-      "type": "project",
-      "path": "../Mediatr.Pipelines.FluentValidation/Mediatr.Pipelines.FluentValidation.csproj",
-      "msbuildProject": "../Mediatr.Pipelines.FluentValidation/Mediatr.Pipelines.FluentValidation.csproj"
-    },
-    "Mediatr.Pipelines.Localiztion/1.0.0": {
+    "MediatR.Pipelines.FluentValidation/1.0.0": {
       "type": "project",
       "path": "../Mediatr.Pipelines.Localiztion/Mediatr.Pipelines.Localiztion.csproj",
       "msbuildProject": "../Mediatr.Pipelines.Localiztion/Mediatr.Pipelines.Localiztion.csproj"
-    },
-    "Mediatr.Pipelines.Logging/1.0.0": {
-      "type": "project",
-      "path": "../Mediatr.Pipelines.Logging/Mediatr.Pipelines.Logging.csproj",
-      "msbuildProject": "../Mediatr.Pipelines.Logging/Mediatr.Pipelines.Logging.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoFixture.Xunit2 >= 4.13.0",
       "FluentAssertions >= 5.10.3",
+      "MediatR.Pipelines.FluentValidation >= 1.0.0",
       "Mediatr.Pipelines.Authorisation >= 1.0.0",
-      "Mediatr.Pipelines.Caching >= 1.0.0",
-      "Mediatr.Pipelines.FluentValidation >= 1.0.0",
-      "Mediatr.Pipelines.Localiztion >= 1.0.0",
-      "Mediatr.Pipelines.Logging >= 1.0.0",
       "Microsoft.Extensions.Caching.Memory >= 3.1.7",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "Moq >= 4.14.5",
