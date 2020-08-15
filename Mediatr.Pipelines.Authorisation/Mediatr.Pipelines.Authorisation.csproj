@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>MediatR.Pipelines.Authorization</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>LaurenceJKing</Authors>
+    <Company>LaurenceJKing</Company>
+    <Description>
+      A MediatR pipeline that ensures the current user is authorized to access the response.
+    </Description>
+    <RepositoryUrl>https://github.com/LaurenceJKing/MediatR.Pipelines</RepositoryUrl>
+    <PackageTags>MediatR; Authorization; Pipelines;</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

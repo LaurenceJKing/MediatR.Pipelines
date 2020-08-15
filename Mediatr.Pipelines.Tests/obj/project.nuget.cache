@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U9ovRkmFYIbpORdUBKVR8uMuDukcJQiBxVFf0TWtrCq+btgnC/8lqAm85jCA5mjvodl/9/N139m0Tz20Yb9H/g==",
+  "dgSpecHash": "ICpZ7Q4qPLlRmrUW+ayR+mansP8KFrXI52pCK87koYjQq8Pk5uxxOiQcUZQWlg5ltJu+bRU/DsR2uUr4vdvvgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Tests\\Mediatr.Pipelines.Tests.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\laure\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\fare\\2.1.1\\fare.2.1.1.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

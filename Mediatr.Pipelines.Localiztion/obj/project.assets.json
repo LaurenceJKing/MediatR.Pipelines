@@ -241,7 +241,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Localiztion\\Mediatr.Pipelines.Localiztion.csproj",
-      "projectName": "MediatR.Pipelines.FluentValidation",
+      "projectName": "MediatR.Pipelines.Localization",
       "projectPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Localiztion\\Mediatr.Pipelines.Localiztion.csproj",
       "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Localiztion\\obj\\",

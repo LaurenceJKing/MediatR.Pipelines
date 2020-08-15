@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj",
-        "projectName": "Mediatr.Pipelines.Authorisation",
+        "projectName": "MediatR.Pipelines.Authorization",
         "projectPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\obj\\",

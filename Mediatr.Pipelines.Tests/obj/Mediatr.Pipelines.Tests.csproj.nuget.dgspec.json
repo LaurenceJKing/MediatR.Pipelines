@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj",
-        "projectName": "Mediatr.Pipelines.Authorisation",
+        "projectName": "MediatR.Pipelines.Authorization",
         "projectPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\obj\\",
@@ -78,7 +78,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\Mediatr.Pipelines.Caching.csproj",
-        "projectName": "MediatR.Pipelines.FluentValidation",
+        "projectName": "MediatR.Pipelines.Caching",
         "projectPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\Mediatr.Pipelines.Caching.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\obj\\",
@@ -210,7 +210,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Localiztion\\Mediatr.Pipelines.Localiztion.csproj",
-        "projectName": "MediatR.Pipelines.FluentValidation",
+        "projectName": "MediatR.Pipelines.Localization",
         "projectPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Localiztion\\Mediatr.Pipelines.Localiztion.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Localiztion\\obj\\",
@@ -276,7 +276,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Logging\\Mediatr.Pipelines.Logging.csproj",
-        "projectName": "MediatR.Pipelines.FluentValidation",
+        "projectName": "MediatR.Pipelines.Logging",
         "projectPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Logging\\Mediatr.Pipelines.Logging.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Logging\\obj\\",

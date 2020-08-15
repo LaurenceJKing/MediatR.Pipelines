@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>MediatR.Pipelines.FluentValidation</PackageId>
+    <PackageId>MediatR.Pipelines.Localization</PackageId>
     <Version>1.0.0</Version>
     <Authors>LaurenceJKing</Authors>
     <Company>LaurenceJKing</Company>
