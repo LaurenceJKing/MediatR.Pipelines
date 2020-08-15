@@ -1,0 +1,12 @@
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\bin\Release\netstandard2.0\Mediatr.Pipelines.Logging.deps.json
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\bin\Release\netstandard2.0\Mediatr.Pipelines.Logging.dll
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\bin\Release\netstandard2.0\Mediatr.Pipelines.Logging.pdb
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\bin\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.dll
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\bin\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.pdb
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\obj\Release\netstandard2.0\Mediatr.Pipelines.Logging.csprojAssemblyReference.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\obj\Release\netstandard2.0\Mediatr.Pipelines.Logging.AssemblyInfoInputs.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\obj\Release\netstandard2.0\Mediatr.Pipelines.Logging.AssemblyInfo.cs
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\obj\Release\netstandard2.0\Mediatr.Pipelines.Logging.csproj.CoreCompileInputs.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\obj\Release\netstandard2.0\Mediatr.Pipelines.Logging.csproj.CopyComplete
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\obj\Release\netstandard2.0\Mediatr.Pipelines.Logging.dll
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\obj\Release\netstandard2.0\Mediatr.Pipelines.Logging.pdb

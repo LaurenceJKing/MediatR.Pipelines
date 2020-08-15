@@ -1,0 +1,9 @@
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Authorisation\bin\Release\netstandard2.0\Mediatr.Pipelines.Authorisation.deps.json
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Authorisation\bin\Release\netstandard2.0\Mediatr.Pipelines.Authorisation.dll
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Authorisation\bin\Release\netstandard2.0\Mediatr.Pipelines.Authorisation.pdb
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Authorisation\obj\Release\netstandard2.0\Mediatr.Pipelines.Authorisation.csprojAssemblyReference.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Authorisation\obj\Release\netstandard2.0\Mediatr.Pipelines.Authorisation.AssemblyInfoInputs.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Authorisation\obj\Release\netstandard2.0\Mediatr.Pipelines.Authorisation.AssemblyInfo.cs
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Authorisation\obj\Release\netstandard2.0\Mediatr.Pipelines.Authorisation.csproj.CoreCompileInputs.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Authorisation\obj\Release\netstandard2.0\Mediatr.Pipelines.Authorisation.dll
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Authorisation\obj\Release\netstandard2.0\Mediatr.Pipelines.Authorisation.pdb

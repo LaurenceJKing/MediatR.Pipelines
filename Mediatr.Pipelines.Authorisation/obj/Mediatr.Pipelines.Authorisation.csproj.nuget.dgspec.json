@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj": {}
+    "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj": {
+    "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj",
+        "projectUniqueName": "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj",
         "projectName": "MediatR.Pipelines.Authorization",
-        "projectPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj",
+        "projectPath": "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\obj\\",
+        "outputPath": "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -25,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/LaurenceJKing/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {

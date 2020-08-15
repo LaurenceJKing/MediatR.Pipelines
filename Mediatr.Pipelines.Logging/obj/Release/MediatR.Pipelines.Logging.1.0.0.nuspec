@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MediatR.Pipelines.Logging</id>
+    <version>1.0.0</version>
+    <authors>LaurenceJKing</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A MediatR pipeline that logs any exceptions raised in the pipeline.</description>
+    <tags>MediatR Logging Pipelines</tags>
+    <repository url="https://github.com/LaurenceJKing/MediatR.Pipelines" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="MediatR.Pipelines.Localization" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="8.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="3.1.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Logging\bin\Release\netstandard2.0\Mediatr.Pipelines.Logging.dll" target="lib\netstandard2.0\Mediatr.Pipelines.Logging.dll" />
+  </files>
+</package>

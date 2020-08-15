@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nDvgSdePYZpnJOppZmlidxCekayS6cmUOWWGTzUxR4qvJJH2yPLqAS0nED/sXH8AJhhnAijIBNzkzS7WrZh/+Q==",
+  "dgSpecHash": "6DuK0cZq2DFGzcqtXYrKor/V3rS/DnXHsAQZZDiu8i8+tU6UyzH+UfLwXurtvUn563saFTC6Bwgp4iW+i0Hvgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.FluentValidation\\Mediatr.Pipelines.FluentValidation.csproj",
+  "projectFilePath": "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.FluentValidation\\Mediatr.Pipelines.FluentValidation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laure\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",

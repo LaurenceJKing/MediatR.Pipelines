@@ -1,0 +1,9 @@
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Localiztion\bin\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.deps.json
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Localiztion\bin\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.dll
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Localiztion\bin\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.pdb
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Localiztion\obj\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.csprojAssemblyReference.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Localiztion\obj\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.AssemblyInfoInputs.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Localiztion\obj\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.AssemblyInfo.cs
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Localiztion\obj\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.csproj.CoreCompileInputs.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Localiztion\obj\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.dll
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.Localiztion\obj\Release\netstandard2.0\Mediatr.Pipelines.Localiztion.pdb

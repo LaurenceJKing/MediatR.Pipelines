@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MediatR.Pipelines.FluentValidation</id>
+    <version>1.0.0</version>
+    <authors>LaurenceJKing</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A MediatR pipeline that validates the request using FluentValidation.</description>
+    <tags>MediatR FluentValidation Pipelines</tags>
+    <repository url="https://github.com/LaurenceJKing/MediatR.Pipelines" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="FluentValidation" version="9.0.1" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="8.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.FluentValidation\bin\Release\netstandard2.0\Mediatr.Pipelines.FluentValidation.dll" target="lib\netstandard2.0\Mediatr.Pipelines.FluentValidation.dll" />
+  </files>
+</package>

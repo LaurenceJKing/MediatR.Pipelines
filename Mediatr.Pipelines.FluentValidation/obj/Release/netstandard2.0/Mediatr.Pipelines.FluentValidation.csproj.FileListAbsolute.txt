@@ -1,0 +1,9 @@
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.FluentValidation\bin\Release\netstandard2.0\Mediatr.Pipelines.FluentValidation.deps.json
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.FluentValidation\bin\Release\netstandard2.0\Mediatr.Pipelines.FluentValidation.dll
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.FluentValidation\bin\Release\netstandard2.0\Mediatr.Pipelines.FluentValidation.pdb
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.FluentValidation\obj\Release\netstandard2.0\Mediatr.Pipelines.FluentValidation.csprojAssemblyReference.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.FluentValidation\obj\Release\netstandard2.0\Mediatr.Pipelines.FluentValidation.AssemblyInfoInputs.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.FluentValidation\obj\Release\netstandard2.0\Mediatr.Pipelines.FluentValidation.AssemblyInfo.cs
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.FluentValidation\obj\Release\netstandard2.0\Mediatr.Pipelines.FluentValidation.csproj.CoreCompileInputs.cache
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.FluentValidation\obj\Release\netstandard2.0\Mediatr.Pipelines.FluentValidation.dll
+c:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.FluentValidation\obj\Release\netstandard2.0\Mediatr.Pipelines.FluentValidation.pdb

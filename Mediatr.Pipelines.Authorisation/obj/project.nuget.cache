@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UnoGSMSCquGn9XI8ikfba8myRCz+Y7bMU/ReoKzx9wstMYsqDKCdvwfadGJgs/3ANAwH94s4WgVbCRBSq/IjZA==",
+  "dgSpecHash": "7oDCFDL9Rsy4nt5pOE9nU+xHaPVbcS3PRkTweVZJ30JsBspYgGNCKNvxAJ5nP2E3IG/x60cRXjiU06c4cVNvKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj",
+  "projectFilePath": "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Authorisation\\Mediatr.Pipelines.Authorisation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laure\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",

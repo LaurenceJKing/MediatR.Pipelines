@@ -432,11 +432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\Mediatr.Pipelines.Caching.csproj",
+      "projectUniqueName": "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\Mediatr.Pipelines.Caching.csproj",
       "projectName": "MediatR.Pipelines.Caching",
-      "projectPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\Mediatr.Pipelines.Caching.csproj",
+      "projectPath": "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\Mediatr.Pipelines.Caching.csproj",
       "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\obj\\",
+      "outputPath": "c:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Caching\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -450,7 +450,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/LaurenceJKing/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
