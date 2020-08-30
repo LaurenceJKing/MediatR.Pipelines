@@ -1,0 +1,9 @@
+C:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.DependencyInjection.NetCore\bin\Debug\netstandard2.0\Mediatr.Pipelines.DependencyInjection.NetCore.deps.json
+C:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.DependencyInjection.NetCore\bin\Debug\netstandard2.0\Mediatr.Pipelines.DependencyInjection.NetCore.dll
+C:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.DependencyInjection.NetCore\obj\Debug\netstandard2.0\Mediatr.Pipelines.DependencyInjection.NetCore.AssemblyInfoInputs.cache
+C:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.DependencyInjection.NetCore\obj\Debug\netstandard2.0\Mediatr.Pipelines.DependencyInjection.NetCore.AssemblyInfo.cs
+C:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.DependencyInjection.NetCore\obj\Debug\netstandard2.0\Mediatr.Pipelines.DependencyInjection.NetCore.csprojAssemblyReference.cache
+C:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.DependencyInjection.NetCore\bin\Debug\netstandard2.0\Mediatr.Pipelines.DependencyInjection.NetCore.pdb
+C:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.DependencyInjection.NetCore\obj\Debug\netstandard2.0\Mediatr.Pipelines.DependencyInjection.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.DependencyInjection.NetCore\obj\Debug\netstandard2.0\Mediatr.Pipelines.DependencyInjection.NetCore.dll
+C:\Users\laure\source\LaurenceJKing\Repos\MediatR.Pipelines\Mediatr.Pipelines.DependencyInjection.NetCore\obj\Debug\netstandard2.0\Mediatr.Pipelines.DependencyInjection.NetCore.pdb

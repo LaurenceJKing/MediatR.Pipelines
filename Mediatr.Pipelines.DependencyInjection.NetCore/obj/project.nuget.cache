@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xF/HzBFCk8Uw1d8liPcSFZOyOBmAXy1DLHigzlelEELS62FTXp/VCLBuv+Doge943n+uIGis6N9g9T+CSUkA0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.DependencyInjection.NetCore\\Mediatr.Pipelines.DependencyInjection.NetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laure\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

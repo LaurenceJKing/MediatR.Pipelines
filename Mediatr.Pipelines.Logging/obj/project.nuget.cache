@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1j7Qz6l3kIcP7x0Vbh2ZZmqaRRd9f28PsVMRuVvRAreaxdib2tZqv0SGqElJU1wiu4XlWua01kA7m6NKni/BCA==",
+  "dgSpecHash": "RZ8yQGCvryWIgtJnVoZc2vcoWNzpaa+a1tECFUrY3zQukBLeSbLiXfTgyJOImKFW0HVhW8MQOiU/V3X7Gt7U/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Logging\\Mediatr.Pipelines.Logging.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,8 @@
     "C:\\Users\\laure\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\3.1.6\\microsoft.extensions.localization.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\laure\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\laure\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\mediatr.pipelines.localization\\1.0.0\\mediatr.pipelines.localization.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

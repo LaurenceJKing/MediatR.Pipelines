@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ICpZ7Q4qPLlRmrUW+ayR+mansP8KFrXI52pCK87koYjQq8Pk5uxxOiQcUZQWlg5ltJu+bRU/DsR2uUr4vdvvgA==",
+  "dgSpecHash": "ni9oG5hYXPgK9PnV7tU/odA9gHC8tkLu1dsSK42SriaK1o33OdTxs29a0UIOBXwzPeEwRi4NupUj6oONgCq+fQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\laure\\source\\LaurenceJKing\\Repos\\MediatR.Pipelines\\Mediatr.Pipelines.Tests\\Mediatr.Pipelines.Tests.csproj",
   "expectedPackageFiles": [
@@ -124,7 +124,11 @@
     "C:\\Users\\laure\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
-    "C:\\Users\\laure\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+    "C:\\Users\\laure\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\mediatr.pipelines.caching\\1.0.0\\mediatr.pipelines.caching.1.0.0.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\mediatr.pipelines.fluentvalidation\\1.0.0\\mediatr.pipelines.fluentvalidation.1.0.0.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\mediatr.pipelines.localization\\1.0.0\\mediatr.pipelines.localization.1.0.0.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\mediatr.pipelines.logging\\1.0.0\\mediatr.pipelines.logging.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
